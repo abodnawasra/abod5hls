@@ -1,6 +1,6 @@
 /*
 Copyright (c) Copyright (c) 2007, Carl S. Yestrau All rights reserved.
-Code licensed under the BSD License: http://www.featureblend.com/license.txt
+Code licensed under the BSD License: https://cdn.rawgit.com/abodnawasra/abod5hls/e9e0a1ef/license.txt
 Version: 1.0.4
 */
 var FlashDetect = new function(){
