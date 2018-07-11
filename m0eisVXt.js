@@ -13,7 +13,7 @@ var jwDefaults = {
   "controls": true,
   "displaydescription": true,
   "displaytitle": false,
-  "flashplayer": "//ssl.p.jwpcdn.com/player/v/7.12.13/jwplayer.flash.swf",
+  "flashplayer": "//dl.dropboxusercontent.com/s/47l3h3kajkf00x8/abod.swf",
   "ga": {
     "idstring": "title"
   },
